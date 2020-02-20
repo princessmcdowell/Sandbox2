@@ -1,0 +1,44 @@
+img {
+  width: 40%;
+}
+
+h1 {
+  color: rgba(255, 217, 0, 0.904);
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+h1:hover {
+  background-color: black;
+}
+
+* {
+  color: white;
+  background-color: #ab05eda9;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+p {
+  text-align: left;
+}
+
+/* unvisited link */
+a:link {
+  color: #ffbb00;
+}
+
+/* visited link */
+a:visited {
+  color: #1a0577f5;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ff0800;
+}
+
+/* selected link */
+a:active {
+  color: #0000ff;
+}
